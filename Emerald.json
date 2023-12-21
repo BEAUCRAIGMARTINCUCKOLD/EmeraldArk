@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Welcome!</>",
                     "title1": "<TextStyle.Green>Welcome to Emerald Ark!</>",
-                    "text1": "<TextStyle.Green>We offer a Primal Chaos server and PvP!</>\n\n",
+                    "text1": "We host a Primal Chaos server and PvP, just search for Emerald!\n\n",
                     "imageurl": "https://wallpapers.com/images/hd/ark-55n6rbb0jjf1j61b.jpg"
                 }
             },
@@ -27,7 +27,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Discord</>",
                     "title1": "Join the Community!",
-                    "text1": "This text goes into the left box",
+                    "text1": "Join our Discord server to stay updated on events, announcements, and connect with fellow survivors: https://discord.gg/cvJRX5Sd3p",
                     "imageurl": "https://wallpapers.com/images/hd/ark-46qp1oqbaglvkieb.jpg"
                 }
             },
@@ -44,7 +44,7 @@
                 "tab4": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Store</>",
-                    "title1": "TextStyle.Green>Store</>",
+                    "title1": "<TextStyle.Green>Store</>",
                     "text1": "<TextStyle.Green>This text goes into the top left box</>",
                     "imageurl": "https://wallpaper.dog/large/5525705.jpg"
                 }
