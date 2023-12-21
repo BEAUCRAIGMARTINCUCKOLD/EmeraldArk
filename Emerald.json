@@ -19,7 +19,7 @@
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Welcome!</>",
                     "title1": "<TextStyle.Green>Welcome to Emerald Ark!</>",
                     "text1": "<TextStyle.Green>We offer a Primal Chaos server and PvP!</>\n\n",
-                    "imageurl": "https://i.imgur.com/w7GOSnB.jpeg"
+                    "imageurl": "https://wallpapers.com/images/hd/ark-55n6rbb0jjf1j61b.jpg"
                 }
             },
             {
@@ -28,14 +28,14 @@
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Discord</>",
                     "title1": "Join the Community!",
                     "text1": "This text goes into the left box",
-                    "imageurl": "https://i.imgur.com/RfclprT.png"
+                    "imageurl": "https://wallpapers.com/images/hd/ark-46qp1oqbaglvkieb.jpg"
                 }
             },
             {
                 "tab3": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Rules</>",
-                    "title1": "Server Rules",
+                    "title1": "<TextStyle.Green>Server Rules</>",
                     "text1": "PvE Primal Chaos Rules\n\nNo Building in the Mesh or Ratholes that Require a Chair\nNo Meshed Structures or Turrets\nNo Excessive Spamming\nNo Blocking Caves - building in caves IS allowed, however, blocking access for drops is required\nONE Base Location (Due to Islands Lack of Base Locations)\nNo Blocking other Base Locations with Spam\nNo Stacking Dinos\nNo Intentional Lagging of the Server\nPlease Cryo Tames that are NOT Being Used (egg laying dinos are permitted)\nNo Caging\nNo Griefing other Players\nNames and Dino Names must be English Characters and Reasonable (No Racism etc)\nNo 'Human', '123' Names\nNo obstructing drops unless its at your base or for a boss fight\n- Some punishments will be placed on the tribe in game. Others will be placed on the individual player depending on the evidence given.\n- Teaming will result in the players caught teaming being banned. Further individual or tribe punishment may also be included.\n- Punishments can include warnings, character deletion, dino/structure wipe, temporary ban or permanent ban (including HWID ban).\n- False reports will lead to punishment for the reporting player.",
                     "imageurl": "https://i.imgur.com/w7GOSnB.jpeg"
                 }
@@ -44,8 +44,8 @@
                 "tab4": {
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Store</>",
-                    "title1": "Store",
-                    "text1": "<TextStyle.Orange>This text goes into the top left box</>",
+                    "title1": "TextStyle.Green>Store</>",
+                    "text1": "<TextStyle.Green>This text goes into the top left box</>",
                     "imageurl": "https://i.imgur.com/2Ie5U0o.png"
                 }
             }
