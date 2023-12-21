@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome!</>",
                     "title1": "<TextStyle.Green>Welcome to Emerald Ark!</>",
-                    "text1": "<TextStyle.Green>We offer a Primal Chaos server and PvP!\n\n</>",
+                    "text1": "<TextStyle.Green>We offer a Primal Chaos server and PvP!</>\n\n",
                     "imageurl": "https://i.imgur.com/w7GOSnB.jpeg"
                 }
             },
