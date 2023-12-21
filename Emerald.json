@@ -45,7 +45,7 @@
                     "layout": 1,
                     "buttontext": "<RichColor Color=\"0,1,0,1\">Store</>",
                     "title1": "<TextStyle.Green>Store</>",
-                    "text1": "<TextStyle.Green>This text goes into the top left box</>",
+                    "text1": "<TextStyle.White>Please visit the Emerald Ark store by clicking the button below, or finding us at:\nSTORELINK</>",
                     "imageurl": "https://wallpapers.com/images/hd/ark-survival-4k-y9lmupiulimwotoq.jpg"
                 }
             }
